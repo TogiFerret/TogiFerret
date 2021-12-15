@@ -5,6 +5,6 @@
 -->
 ### TogiFerret Here!
 I'm an 
-- js = `let what_i_am = "AwsomeCoder"` or `var what_i_am = "AwsomeCoder"` or for DOMstring versions `let what_i_am = AwsomeCoder` or `var what_i_am = AwsomeCoder`
-- py = `what_i_am = "AwsomeCoder"`
-- swift = `let what_i_am = "AwsomeCoder"` or `var what_i_am = "AwsomeCoder"`
+- js = `let what_i_am = "AwesomeCoder"` or `var what_i_am = "AwesomeCoder"` or for DOMstring versions `let what_i_am = AwesomeCoder` or `var what_i_am = AwesomeCoder`
+- py = `what_i_am = "AwesomeCoder"`
+- swift = `let what_i_am = "AwesomeCoder"` or `var what_i_am = "AwesomeCoder"`
